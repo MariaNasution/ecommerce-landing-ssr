@@ -9,8 +9,6 @@ import FeaturedSection from '@/components/FeaturedSection'
 
 export default function HomePage() {
   const featuredProducts = products.slice(0, 3)
-  const newProducts = products.filter(product => product.isNew)
-  const hotProducts = products.filter(product => product.isHot)
 
   return (
     <>
