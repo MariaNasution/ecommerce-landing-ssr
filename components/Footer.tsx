@@ -113,7 +113,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-6 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-500 text-sm">
-              © 2025 LuxeMart. All rights reserved. Made with 🧡 in Indonesia.
+              © 2025 LuxeMart. All rights reserved. Made By Maria Laura Nasution
             </div>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-amber-400 text-sm transition-colors">Privacy Policy</a>
